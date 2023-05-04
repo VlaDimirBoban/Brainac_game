@@ -10,3 +10,5 @@ All assets included.
 Raylib install download:
 
 https://www.raylib.com/
+
+![alt text](https://github.com/VlaDimirBoban/Brainac_game/blob/main/Brainiac.jpg?raw=true)
